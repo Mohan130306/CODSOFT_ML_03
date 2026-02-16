@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📉 Customer Churn Prediction using Machine Learning
 
 ## 📌 Project Overview
@@ -110,3 +111,6 @@ This project demonstrates a complete end-to-end machine learning workflow for cu
 ---
 
 ## 📁 Project Structure
+=======
+# CODSOFT_ML_03
+>>>>>>> db9be95bea5c7fc2b8f60efb9f0ef5011a4825e6
